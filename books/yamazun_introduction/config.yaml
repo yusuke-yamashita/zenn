@@ -1,0 +1,10 @@
+title: "やまずんの説明書"
+summary: "やまずんに関係する情報をまとめる本です。"
+topics: [introduction]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - 01_what_is_yamazun
+  - 02_passion_behind_dirty_tester
+  - 03_passion_behind_bakibaki_qa
