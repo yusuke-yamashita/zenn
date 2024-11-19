@@ -1,5 +1,5 @@
 ---
-title: "Dirty Testerの私がふりかえりにこだわる理由"
+title: "Dirty Testerの私がQAエンジニアとしてふりかえりにこだわる理由"
 emoji: "🐸"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [retrospective]
