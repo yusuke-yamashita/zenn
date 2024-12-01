@@ -1,3 +1,11 @@
+---
+title: "テストエンジニアに読んでほしいテスト本20選" # 記事のタイトル
+emoji: "⚖️" # アイキャッチとして使われる絵文字（1文字だけ）
+type: "idea" # tech: 技術記事 / idea: アイデア記事
+topics: ["quality assurance","QA","test"]
+published: false # 公開設定（falseにすると下書き）
+---
+
 はじめに
 
 以下の記事でこんなこと言いました。https://note.com/usk_ymst_p/n/n352b2deff3c5
