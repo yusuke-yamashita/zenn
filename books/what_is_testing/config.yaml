@@ -1,0 +1,13 @@
+title: "テストってなんなの？"
+summary: "〜ってなんなの？をまとめた本です"
+topics: [softwaretesting,QA,test,testing]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - 01_what_is_test_case
+  - 02_what_is_bug_management
+  - 03_what_is_test_levels
+  - 04_what_is_test_type
+  - 05_what_is_test_techniques
+  - 06_what_is_generic_test_automation_architecture

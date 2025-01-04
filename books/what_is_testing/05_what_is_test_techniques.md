@@ -1,9 +1,5 @@
 ---
 title: "テスト技法ってなんなの？"
-emoji: "🦔"
-topics: ["softwaretest","QA","test"]
-published: true # 公開設定（falseにすると下書き）
-published_at: 2024-12-05 00:00
 ---
 
 # はじめに
