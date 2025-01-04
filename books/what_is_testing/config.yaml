@@ -1,6 +1,6 @@
 title: "テストってなんなの？"
 summary: "〜ってなんなの？をまとめた本です"
-topics: [softwaretesting,QA,test,testing]
+topics: [software_testing,QA,test,testing]
 published: true
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
