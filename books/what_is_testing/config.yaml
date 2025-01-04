@@ -1,10 +1,11 @@
 title: "テストってなんなの？"
-summary: "ソフトウェアテストの様々な用語とかについて〜ってなんなの？形式でまとめた本です。嘘はいいたくないので、指摘があれば歓迎します。優しくお願いしますね。"
+summary: "ソフトウェアテストの様々な用語とかについて〜ってなんなの？形式で書いた記事をまとめた本です。それぞれ独立した記事になっていますので、どの章からでも読めます。嘘はいいたくないので、指摘があれば歓迎します。優しくお願いしますね。"
 topics: [software_testing,QA,test,testing]
 published: true
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
 chapters:
+  - 00_what_is_what_is_testing
   - 01_what_is_test_case
   - 02_what_is_bug_management
   - 03_what_is_test_levels
