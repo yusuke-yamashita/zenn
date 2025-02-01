@@ -15,6 +15,8 @@ scrapみたいな扱いです。
 
 ## 飯塚悦功プロジェクト
 
+
+
 - [【超ISO】人と組織を賢くする品質管理 / 飯塚悦功 (2022.02.07公開) ](https://www.youtube.com/watch?v=K4-541vN1L0)
 - [【超ISO】「顧客満足」は正しいことなのですか？ / 飯塚悦功（2022.02.28公開）](https://www.youtube.com/watch?v=sLve7qKNdrM)
 - [【超ISO】QFDのこころ～品質機能展開の真意を知る～ / 飯塚悦功（2022年03月07日公開）](https://www.youtube.com/watch?v=uLVMwsrqBpM)
