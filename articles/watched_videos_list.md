@@ -20,7 +20,7 @@ scrapみたいな扱いです。
 - [【超ISO】人と組織を賢くする品質管理 / 飯塚悦功 (2022.02.07公開) ](https://www.youtube.com/watch?v=K4-541vN1L0)
 - [【超ISO】「顧客満足」は正しいことなのですか？ / 飯塚悦功（2022.02.28公開）](https://www.youtube.com/watch?v=sLve7qKNdrM)
 - [【超ISO】QFDのこころ～品質機能展開の真意を知る～ / 飯塚悦功（2022年03月07日公開）](https://www.youtube.com/watch?v=uLVMwsrqBpM)
-- [【超ISO】「プロセスアプローチ」って実は何なのですか？/ 飯塚悦功 04](https://www.youtube.com/watch?v=sVus7EEzqKM)
+- [【超ISO】「プロセスアプローチ」って実は何なのですか/ 飯塚悦功 04](https://www.youtube.com/watch?v=sVus7EEzqKM)
 - [【超ISO・品質管理】明日にかける橋～「売る」ということ～その1 飯塚悦功 ](https://www.youtube.com/watch?v=UIdud5_TF6M&t=5s)
 - [【超ISO・品質管理】明日にかける橋～「売る」ということ～その2 飯塚悦功](https://www.youtube.com/watch?v=5ZNBGf9-N-4&t=3s)
 - [【超ISO・ISO 9001・品質管理】モノづくり大国日本のヒミツその1 飯塚悦功](https://www.youtube.com/watch?v=m8auINDObsI)
@@ -40,7 +40,7 @@ scrapみたいな扱いです。
 
 ## 西康晴
 
-- [JaSST nano vol.13 #4「「もうQAはいらない」ってホントなの？」](https://www.youtube.com/watch?v=aDdSKb5HKuU&pp=ygUKSmFTU1QgbmFubw%3D%3D)
+- [JaSST nano vol.13 #4「もうQAはいらないってホントなの？」](https://www.youtube.com/watch?v=aDdSKb5HKuU&pp=ygUKSmFTU1QgbmFubw%3D%3D)
 - [JaSST nano vol.12 #5「品質文化って何なの?」](https://youtu.be/-a3LiMmBqEw?si=ftvabnaXoECSR_6r)
 - [JaSST nano vol.6 #7「Quality Engineeringって何なのそれ美味しいの？」](https://youtu.be/zgIikXWyQd8?si=bbLvIo1GOyrYAXuP)
 - [JaSST nano vol.17 #3 「水銀中毒はAI羊の夢を見るか」](https://youtu.be/EngO7O4hghw?si=xUl_f9D_zl4EdH4K)
