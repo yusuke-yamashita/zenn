@@ -6,4 +6,4 @@ topics: ["quality assurance","QA","test"]
 published: false # 公開設定（falseにすると下書き）
 ---
 
-テストケースの形式性について話す
+テストケースの形式性について話す。

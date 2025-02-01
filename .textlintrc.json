@@ -1,0 +1,16 @@
+{
+  "rules": {
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+        "max": 120
+      },
+      "no-exclamation-question-mark": false,
+      "ja-no-weak-phrase": false,
+      "max-kanji-continuous-len": {
+        "max": 6,
+        "allow": ["開発者完全性仮説","品質保証知識体系","日本的品質管理","第三者検証会社"]
+      }
+    },
+    "preset-smarthr": true
+  }
+}
