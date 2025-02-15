@@ -15,8 +15,6 @@ scrapみたいな扱いです。
 
 ## 飯塚悦功プロジェクト
 
-
-
 - [【超ISO】人と組織を賢くする品質管理 / 飯塚悦功 (2022.02.07公開) ](https://www.youtube.com/watch?v=K4-541vN1L0)
 - [【超ISO】「顧客満足」は正しいことなのですか？ / 飯塚悦功（2022.02.28公開）](https://www.youtube.com/watch?v=sLve7qKNdrM)
 - [【超ISO】QFDのこころ～品質機能展開の真意を知る～ / 飯塚悦功（2022年03月07日公開）](https://www.youtube.com/watch?v=uLVMwsrqBpM)
@@ -46,4 +44,4 @@ scrapみたいな扱いです。
 - [JaSST nano vol.17 #3 「水銀中毒はAI羊の夢を見るか」](https://youtu.be/EngO7O4hghw?si=xUl_f9D_zl4EdH4K)
 - [JaSST nano vol.9 #4「シフトレフトって何をシフトするのなの？」](https://youtu.be/Ju2Y4huBMpI?si=LHLUMnkmFXrD3Xg_)
 - [製造業の品質管理の考え方をイマドキのスタイルで読み解いてみよう](https://youtu.be/HcTnUz55trg?si=Yof_NVv6slzUHNds)
-
+- [テスト設計コンテスト2013 関西地域予選 招待講演](https://www.youtube.com/watch?v=zhIk9G7S1Ok)
