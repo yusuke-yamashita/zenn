@@ -76,7 +76,11 @@ QAは作り込まれた品質に対して、説明責任を果たそうとしま
 
 :::message
 「開発者に遠慮する」ではなくて、「ともにつくる」ということを伝え続けることに妥協しないことが大切だと思います。
-<!-- textlint-disable prh -->:::<!-- textlint-enable prh -->
+<!-- textlint-disable prh -->
+:::
+<!-- textlint-enable prh -->
+
+
 
 ## テスターは絶対に驕るな
 
