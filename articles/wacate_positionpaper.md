@@ -2,7 +2,7 @@
 title: "WACATEのポジションペーパー" # 記事のタイトル
 type: "idea" # tech: 技術記事 / idea: アイデア記事
 topics: ["memo"]
-published: false # 公開設定（falseにすると下書き）
+published: true # 公開設定（falseにすると下書き）
 ---
 
 # ポジションペーパー:大阪を盛り上げたい
