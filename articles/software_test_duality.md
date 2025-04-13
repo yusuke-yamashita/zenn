@@ -81,6 +81,6 @@ TDDやリファクタリングの文脈で扱われるテストは、プログ�
 
 # 参考文献
 - テスト駆動開発、2017/10/14、Kent Beck (著), 和田卓人 (翻訳)、オーム社
-- JSTQB Foundation LevelシラバスVersion 2023V4.0.J02
+- JSTQB Foundation LevelシラバスVersion 2023V4.0.J02、https://jstqb.jp/syllabus.html#syllabus_foundation
 - 保守しやすく変化に強いソフトウェアを支える柱自動テストとテスト駆動開発⁠⁠、その全体像～Software Design 2022年3月号「そろそろはじめるテスト駆動開発」、2024/01/16、和田卓人、gihyo.jp、https://gihyo.jp/article/2024/01/automated-test-and-tdd
 - 【翻訳記事】BDDの考案者が執筆した記事「テストについて話し合わなくてはならない」を翻訳しました！、2022/10/13、nihonbuson、ブロッコリーのブログ、https://nihonbuson.hatenadiary.jp/entry/we-need-to-talk-about-testing
