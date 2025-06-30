@@ -199,8 +199,8 @@ https://note.com/akiyama924/n/nbed4c70d39f4
 私自身はまだまだ未熟ですが、この記事を通して少しでも行動規範について知ってもらい、私自身も体現していきたいと思っています。
 
 # 参考文献
-- JSTQB.「JSTQB認定テスト技術者資格-シラバス（学習事項）・用語集-」. JSTQB認定テスト技術者資格.2024-11-12.https://jstqb.jp/syllabus.html.(参照 2025-6-30)
-- ISTQB.「What We Do - International Software Testing Qualifications Board」. International Software Testing Qualifications Board. 2025-6-30.https://www.istqb.org.(参照 2025-6-30)
-- the Association for Computing Machinery, Inc. and the Institute for Electrical and Electronics Engineers, Inc..「ACM Ethics」. The Official Site of the Association for Computing Machinery‘s Committee on Professional Ethics.. 2022-12-22.https://ethics.acm.org/code-of-ethics/software-engineering-code/.(参照 2025-6-30)
-- Kouichi Akiyama.「62号：行動規範」. 62号：行動規範｜Kouichi Akiyama.2020-4-6.https://note.com/akiyama924/n/nbed4c70d39f4.(参照 2025-6-30)
+- JSTQB.「JSTQB認定テスト技術者資格-シラバス（学習事項）・用語集-」. JSTQB認定テスト技術者資格.2024-11-12.https://jstqb.jp/syllabus.html .(参照 2025-6-30)
+- ISTQB.「What We Do - International Software Testing Qualifications Board」. International Software Testing Qualifications Board. 2025-6-30.https://www.istqb.org .(参照 2025-6-30)
+- the Association for Computing Machinery, Inc. and the Institute for Electrical and Electronics Engineers, Inc..「ACM Ethics」. The Official Site of the Association for Computing Machinery‘s Committee on Professional Ethics.. 2022-12-22.https://ethics.acm.org/code-of-ethics/software-engineering-code/ .(参照 2025-6-30)
+- Kouichi Akiyama.「62号：行動規範」. 62号：行動規範｜Kouichi Akiyama.2020-4-6.https://note.com/akiyama924/n/nbed4c70d39f4 .(参照 2025-6-30)
 
