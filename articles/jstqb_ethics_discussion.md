@@ -19,8 +19,10 @@ JSTQBおよびISTQBには、「行動規範」というものがあります。
 
 そのため、自分自身への自戒も含めて、これまで行動規範を言及するドキュメントは非公開としてきました。
 
-しかし、この内容を非公開とする決断をしてから一年がたった今も、この行動規範の重要性を改めて伝えたいという強い思いがあります。
-他のテストエンジニアの方々にとっても、より良いプロしての道を歩むための一助となることを心から願っています。
+しかし、この行動規範の重要性を改めて伝えたいという強い思いが残っていました。
+
+私はこの思いを成仏させるため、批判を覚悟で「行動規範」について語ろうと思います。
+この文章から、他のテストエンジニアの方々にとっても、より良いプロしての道を歩むための一助となることを心から願っています。
 
 この文章をきっかけに、自分自身でも「テストエンジニアとしてどのような行動が正しいのだろうか」と考えるきっかけとなれば幸いです。
 
@@ -53,8 +55,12 @@ ISTQBではソフトウェアテストに関与する人間として、8つの�
 このpublic interestという言葉はこの行動規範にたびたび登場します。
 
 ACMの行動規範では、PUBLICにおける個別の原則について、以下のように記載しています。
+<!-- textlint-disable prh -->
+
 > 1.03. Approve software only if they have a well-founded belief that it is safe, meets specifications, passes appropriate tests, and does not diminish quality of life, diminish privacy or harm the environment. The ultimate effect of the work should be to the public good.
 > https://www.acm.org/code-of-ethics/software-engineering-code
+
+<!-- textlint-enable prh -->
 
 上記が示すようなpublic goodについては私自身も意識していきたいと考えています。
 
