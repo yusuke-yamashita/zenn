@@ -16,8 +16,6 @@ Q.年収とかは?
 ```
 https://dic.nicovideo.jp/a/バキバキ童貞です
 
-![](/images/bakibakiqa_goma.png)
-
 ## バキバキQAの背景
 
 2024年ごろ、Dirty Testerである私は、テスト会社を卒業して、「QAエンジニア」として事業会社で働くことになりました。
