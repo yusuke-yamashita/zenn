@@ -228,8 +228,8 @@ T.B.D
 ### 参考文献：
 
 <!-- textlint-disable prh -->
-- てすとづくり〜質の高いテスト設計の原理〜、2012/11/3、西康晴、https://www.aster.or.jp/business/contest/contest2013/pdf/kansai_2012_keynote.pdf,（2025/8/15参照）
-- スクラムガイド、https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf,（2025/8/15参照）
-- JSTQB Foundation LevelシラバスVersion 2023V4.0.J02、https://jstqb.jp/syllabus.html#syllabus_foundation,（2025/8/15参照）
+- てすとづくり〜質の高いテスト設計の原理〜、2012/11/3、西康晴、2025/8/15参照、https://www.aster.or.jp/business/contest/contest2013/pdf/kansai_2012_keynote.pdf
+- スクラムガイド、2025/8/15参照、https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf
+- JSTQB Foundation LevelシラバスVersion 2023V4.0.J02、2025/8/15参照、https://jstqb.jp/syllabus.html#syllabus_foundation
 - ソフトウェアテスト徹底指南書〜開発の高品質と高スピードを両立させる実践アプローチ、井芹洋輝、2025年、技術評論社
 <!-- textlint-enable prh -->
