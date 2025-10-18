@@ -9,7 +9,7 @@ published: true # 公開設定（falseにすると下書き）
 
 アジャイルテストには"Testing Manifest"というものが存在します。
 
-詳しくは以下のブログをご覧ください。
+詳しくは以下のブロッコリーさんのブログ＆紹介されている書籍をご覧ください。
 https://nihonbuson.hatenadiary.jp/entry/TestingManifesto
 
 これらはRegistered Agile Testing研修というScrum Inc.のトレーニングでも扱われています。
