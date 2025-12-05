@@ -1,5 +1,5 @@
 ---
-title: "アジャイルテストにおけるTesting Manifestについて自分なりに考えてみる" # 記事のタイトル
+title: "アジャイルテストにおけるTesting Manifestoについて自分なりに考えてみる" # 記事のタイトル
 emoji: "🎺" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "idea" # tech: 技術記事 / idea: アイデア記事
 topics: ["quality assurance","QA","test","agile","agiletesting"]
@@ -7,7 +7,7 @@ published: true # 公開設定（falseにすると下書き）
 ---
 # はじめに
 
-アジャイルテストには"Testing Manifest"というものが存在します。
+アジャイルテストには"Testing Manifesto"というものが存在します。
 
 詳しくは以下のブロッコリーさんのブログ＆紹介されている書籍をご覧ください。
 https://nihonbuson.hatenadiary.jp/entry/TestingManifesto
@@ -168,7 +168,7 @@ https://zenn.dev/55_ymzn/articles/software_testing_transparency
 
 # 最後に
 
-本記事では、アジャイルテストの「Testing Manifest」について、私個人の解釈を述べてきました。
+本記事では、アジャイルテストの「Testing Manifesto」について、私個人の解釈を述べてきました。
 
 「はじめに」でも触れたように、これらは決して唯一の正解ではありません。
 私の考えを呼び水として、皆さんがご自身の環境やチームにおいて「自分自身はどのように考え、行動すべきか？」を改めて言語化するきっかけとなれば、これほど嬉しいことはありません。
