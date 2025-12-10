@@ -10,6 +10,7 @@ published_at: 2025-12-06 00:00
 # はじめに
 
 この記事は「株式会社カオナビAdvent Calendar 2025」の6日目の記事です。
+https://qiita.com/advent-calendar/2025/kaonavi
 
 昨年、株式会社カオナビの佐野さんが「ソフトウェアは捨てやすく作ろう」という記事を執筆しました。
 https://qiita.com/sanogemaru/items/40557c6db33dcec99cf1
