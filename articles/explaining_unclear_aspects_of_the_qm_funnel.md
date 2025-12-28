@@ -1,6 +1,6 @@
 ---
 title: "QMファンネルのよくわからんところを自分なりに解説する" # 記事のタイトル
-emoji: "❓" # アイキャッチとして使われる絵文字（1文字だけ）
+emoji: "🧞" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "idea" # tech: 技術記事 / idea: アイデア記事
 topics: ["softwaretest","QA","test"]
 published: true # 公開設定（falseにすると下書き）

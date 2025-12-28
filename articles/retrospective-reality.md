@@ -1,6 +1,6 @@
 ---
 title: "ふりかえり手法の功罪 〜リアルを取り戻せ〜"
-emoji: "🐸"
+emoji: "🧞"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["retrospective", "team", "agile", "kaizen"]
 published: true

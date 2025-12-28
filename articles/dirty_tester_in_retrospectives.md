@@ -1,6 +1,6 @@
 ---
 title: "Dirty Testerの私がQAエンジニアとしてふりかえりにこだわる理由"
-emoji: "🐸"
+emoji: "🧞"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [retrospective]
 published: true # 公開設定（falseにすると下書き）

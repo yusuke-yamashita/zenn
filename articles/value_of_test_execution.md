@@ -1,6 +1,6 @@
 ---
 title: "テスト実行者というロールについて語ろう" # 記事のタイトル
-emoji: "ρ" # アイキャッチとして使われる絵文字（1文字だけ）
+emoji: "🧞" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "idea" # tech: 技術記事 / idea: アイデア記事
 topics: ["quality assurance","QA","test"]
 published: true # 公開設定（falseにすると下書き）

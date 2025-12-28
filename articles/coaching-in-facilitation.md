@@ -1,6 +1,6 @@
 ---
 title: "気がついたらファシリテーションに「コーチング」を使っていた"
-emoji: "🚪"
+emoji: "🧞"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["coaching", "facilitation",  "team"]
 published: true

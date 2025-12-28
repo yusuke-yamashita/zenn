@@ -1,7 +1,7 @@
 ---
 title: "私なりのデシジョンテーブルの書き方" # 記事のタイトル
 type: "idea" # tech: 技術記事 / idea: アイデア記事
-emoji: "💺" # アイキャッチとして使われる絵文字（1文字だけ）
+emoji: "🧞" # アイキャッチとして使われる絵文字（1文字だけ）
 topics: ["softwaretest","QA","test"]
 published: true # 公開設定（falseにすると下書き）
 published_at: 2024-12-04 00:00

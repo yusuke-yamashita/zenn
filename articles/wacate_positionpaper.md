@@ -1,5 +1,6 @@
 ---
 title: "WACATEのポジションペーパー" # 記事のタイトル
+emoji: "🧞"
 type: "idea" # tech: 技術記事 / idea: アイデア記事
 topics: ["memo"]
 published: true # 公開設定（falseにすると下書き）
