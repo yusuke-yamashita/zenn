@@ -94,7 +94,6 @@ ACMの行動規範のPRODUCTには以下のような記述があります。
 
 ACMでは「products」となっている部分が、ISTQBでは「provide」となっている部分が興味深いと考えています。
 
-![](/images/ethics/プロダクト.png)
 
 ### 普段から意識していること
 
